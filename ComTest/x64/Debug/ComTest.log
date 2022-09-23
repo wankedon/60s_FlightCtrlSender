@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ComTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ComTest.cpp
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(50,18): warning C4244: '=': conversion from 'WORD' to 'uint8_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(51,16): warning C4244: '=': conversion from 'WORD' to 'uint8_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(52,17): warning C4244: '=': conversion from 'WORD' to 'uint8_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(53,19): warning C4244: '=': conversion from 'WORD' to 'uint8_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(55,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(56,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(57,23): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(58,20): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(59,20): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(60,20): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(61,22): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(62,22): warning C4244: '=': conversion from 'double' to 'int16_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(63,25): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+E:\SelfStudy\工作收藏\代码库\ComTest\ComTest\ComTest.cpp(108,6): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  CSerialPort.cpp
+  Generating Code...
+  ComTest.vcxproj -> E:\SelfStudy\工作收藏\代码库\ComTest\x64\Debug\FlightCtrlSender.exe
